@@ -46,14 +46,14 @@ if (fs.existsSync('config.env')) {
 
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || 'IRIS_MD~k9jQD8v0Yt2bd3M4p3Yk0',
+    SESSION_ID: process.env.SESSION_ID || 'IRIS_MD~UxnR3kVP2PltbH82YxJXR',
     HANDLERS: process.env.HANDLERS || '.',
     IG: process.env.IG || 'https://instagram.com/sla.sher_/',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;oreki404;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
     SUDO: process.env.SUDO || '2349153241354',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'false',
     MODE: process.env.MODE || 'public',
     STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
     HAPP: process.env.HAPP || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
